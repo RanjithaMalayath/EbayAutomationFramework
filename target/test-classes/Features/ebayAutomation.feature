@@ -1,4 +1,3 @@
-
 @tag
 Feature: eBay Automation
   
